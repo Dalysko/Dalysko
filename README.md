@@ -101,13 +101,13 @@ Passionnée par la transformation de données complexes en insights clairs et ac
 
 ## 💼 Experience
 
-**Data Analyst — Mistertemp Group** *(Alternance · Sept 2023 - Jan 2025)*
+**Data Analyst - Mistertemp Group** *(Alternance · Sept 2023 - Jan 2025)*
 > Looker (LookML) · DBT · Snowflake · AWS QuickSight · SQL
 - Built and maintained data models in DBT, created dashboards for Finance, Marketing & Product teams
 - Deployed embedded reports on Amazon QuickSight used by 150+ agencies
 - Led the Data Champions program, coaching 25 business collaborators on data autonomy
 
-**Data Analyst — Mistertemp Group** *(Stage · Juil - Déc 2022)*
+**Data Analyst - Mistertemp Group** *(Stage · Juil - Déc 2022)*
 > SQL · DBT · Looker · Snowflake
 - Requirements gathering, functional specifications, data modelling and performance dashboards
 
