@@ -99,16 +99,6 @@ Passionnée par la transformation de données complexes en insights clairs et ac
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dalysko&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=e6edf3" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalysko&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd&text_color=e6edf3" />
-</div>
-
----
-
 ## 💼 Experience
 
 **Data Analyst — Mistertemp Group** *(Alternance · Sept 2023 – Jan 2025)*
