@@ -18,18 +18,20 @@
 ## 👤 About me / À propos
 
 <details open>
-<summary>🇬🇧 Read in English</summary>
+<summary>Read in English</summary>
 
 Hi 👋 I'm **Daly SISSOKO**, Data Analyst.
-Passionate about turning complex data into clear, actionable insights, I bring a dual **Finance & Data** background to help businesses drive performance. Intelligent dashboards, reliable data models, business-oriented analysis my goal is always the same: help decision-makers see further and act faster.
+I design analytical solutions that turn complex data into reliable, business-driven decision-making systems.
+From dashboards and data modeling to automation and business analytics, my goal is to help organizations make faster, clearer, and more effective decisions through data.
 
 </details>
 
 <details>
-<summary>🇫🇷 Lire en français</summary>
+<summary>Lire en français</summary>
 
 Bonjour 👋 Je suis **Daly SISSOKO**, Data Analyst.
-Passionnée par la transformation de données complexes en insights clairs et actionnables, je mets mon double parcours **Finance & Data** au service de la performance des entreprises. Dashboards intelligents, modèles de données fiables, analyses orientées métier mon objectif est toujours le même : aider les décideurs à voir plus loin et agir plus vite.
+Je conçois des solutions analytiques qui transforment des données complexes en systèmes de pilotage fiables et orientés business.
+Dashboards, modélisation, automatisation et analyses métier : mon objectif est de mettre la donnée au service de décisions plus rapides, plus claires et plus performantes.
 
 </details>
 
@@ -40,7 +42,7 @@ Passionnée par la transformation de données complexes en insights clairs et ac
   </tr>
   <tr>
     <td>🌍 <strong>Languages</strong></td>
-    <td>🇫🇷 Français · 🇬🇧 English · 🇨🇳 中文 </td>
+    <td> Français · English · 中文 </td>
   </tr>
   <tr>
     <td>🎓 <strong>Education</strong></td>
@@ -116,5 +118,5 @@ Passionnée par la transformation de données complexes en insights clairs et ac
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dalysko&color=388bfd&style=flat-square&label=Profile+views" />
   <br/><br/>
-  <sub>⭐ <em>"De la donnée brute à la décision From raw data to decisions."</em></sub>
+  <sub>⭐ <em>"De la donnée brute à la décision - From raw data to decisions."</em></sub>
 </div>
