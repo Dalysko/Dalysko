@@ -21,7 +21,7 @@
 <summary>🇬🇧 Read in English</summary>
 
 Hi 👋 I'm **Daly SISSOKO**, Data Analyst.
-Passionate about turning complex data into clear, actionable insights, I bring a dual **Finance & Data** background to help businesses drive performance. Intelligent dashboards, reliable data models, business-oriented analysis — my goal is always the same: help decision-makers see further and act faster.
+Passionate about turning complex data into clear, actionable insights, I bring a dual **Finance & Data** background to help businesses drive performance. Intelligent dashboards, reliable data models, business-oriented analysis my goal is always the same: help decision-makers see further and act faster.
 
 </details>
 
@@ -29,7 +29,7 @@ Passionate about turning complex data into clear, actionable insights, I bring a
 <summary>🇫🇷 Lire en français</summary>
 
 Bonjour 👋 Je suis **Daly SISSOKO**, Data Analyst.
-Passionnée par la transformation de données complexes en insights clairs et actionnables, je mets mon double parcours **Finance & Data** au service de la performance des entreprises. Dashboards intelligents, modèles de données fiables, analyses orientées métier — mon objectif est toujours le même : aider les décideurs à voir plus loin et agir plus vite.
+Passionnée par la transformation de données complexes en insights clairs et actionnables, je mets mon double parcours **Finance & Data** au service de la performance des entreprises. Dashboards intelligents, modèles de données fiables, analyses orientées métier mon objectif est toujours le même : aider les décideurs à voir plus loin et agir plus vite.
 
 </details>
 
@@ -101,13 +101,13 @@ Passionnée par la transformation de données complexes en insights clairs et ac
 
 ## 💼 Experience
 
-**Data Analyst — Mistertemp Group** *(Alternance · Sept 2023 – Jan 2025)*
+**Data Analyst — Mistertemp Group** *(Alternance · Sept 2023 - Jan 2025)*
 > Looker (LookML) · DBT · Snowflake · AWS QuickSight · SQL
 - Built and maintained data models in DBT, created dashboards for Finance, Marketing & Product teams
 - Deployed embedded reports on Amazon QuickSight used by 150+ agencies
 - Led the Data Champions program, coaching 25 business collaborators on data autonomy
 
-**Data Analyst — Mistertemp Group** *(Stage · Juil – Déc 2022)*
+**Data Analyst — Mistertemp Group** *(Stage · Juil - Déc 2022)*
 > SQL · DBT · Looker · Snowflake
 - Requirements gathering, functional specifications, data modelling and performance dashboards
 
@@ -116,5 +116,5 @@ Passionnée par la transformation de données complexes en insights clairs et ac
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dalysko&color=388bfd&style=flat-square&label=Profile+views" />
   <br/><br/>
-  <sub>⭐ <em>"De la donnée brute à la décision — From raw data to decisions."</em></sub>
+  <sub>⭐ <em>"De la donnée brute à la décision From raw data to decisions."</em></sub>
 </div>
